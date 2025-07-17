@@ -11,4 +11,4 @@ Analyse Financial-Loan data using Power BI to gain insights into Loan trends, re
 
 https://github.com/venu608/Financial-Loan-Dashboard/blob/main/"C:\Users\Dell\Downloads\projects\Loan Finacal Data  Power Bi dashboard\Screenshot 2025-07-17 184005.png"
 
-![Screenshot 2025-07-17 184005"](https://github.com/user-attachments/assets/d1ad6da0-fc24-4fa4-81e7-40d4358a70c0)
+
