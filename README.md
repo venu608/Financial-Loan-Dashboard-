@@ -9,6 +9,7 @@ Analyse Financial-Loan data using Power BI to gain insights into Loan trends, re
 5.	Total loan payments by Purpose
 6.	Tensure
 
-https://github.com/venu608/Financial-Loan-Dashboard/blob/main/"Loan Finacal Data  Power Bi dashboard\Screenshot 2025-07-17 184005.png"
+
+<img width="890" height="486" alt="Screenshot 2025-07-17 184005" src="https://github.com/user-attachments/assets/02c8ea01-1acf-451b-bc2a-0fc9322b545e" />
 
 
